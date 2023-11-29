@@ -27,3 +27,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdikalhor1&theme=vue&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdikalhor1&theme=vue)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikalhor1&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#
+[![](https://visitcount.itsvg.in/api?id=mahdikalhor1&icon=4&color=0)](https://visitcount.itsvg.in)
